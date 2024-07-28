@@ -128,10 +128,8 @@ The E-Health Care Management System is a robust solution for managing hospital o
 
 For any questions or suggestions, please feel free to reach out:
 
-- **Email:** sagarinnovate@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sagarinnovate/)
-- **GitHub:** [GitHub Profile](https://github.com/sagarinnovate)
-- **Website:** [Visit Now](https://sagarinnovate.growmediax.com)
+- **Email:** ktgaikwad24@gmail.com
+-
 
 ---
 
